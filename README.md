@@ -1,1 +1,2 @@
-# Kaggle-House-Price-Prediction
+# Kaggle Competition
+Predicting the sale price of houses
